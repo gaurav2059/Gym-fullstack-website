@@ -1,0 +1,66 @@
+
+  /* Container styling */
+  #admin-content {
+    margin-top: 20px;
+  }
+
+  /* Form container styling */
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  /* Form heading styling */
+  .admin-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  /* Form field styling */
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  /* Label styling */
+  label {
+    display: block;
+    font-weight: bold;
+  }
+
+  /* Input field styling */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  /* Select field styling */
+  select.form-control {
+    appearance: none;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  /* Button styling */
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  /* Button hover effect */
+  .btn:hover {
+    background-color: #0056b3;
+  }
